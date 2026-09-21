@@ -1,0 +1,6 @@
+{
+  "name": "VenueBook India",
+  "description": "India-wide venue and resort booking platform for weddings, parties, corporate meetings, conferences, and celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
